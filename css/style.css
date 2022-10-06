@@ -246,6 +246,7 @@ header{
 	border-right: 2px solid #004aa8;
 	-webkit-text-stroke: 0vw #f7f7fe;
 	animation: animate 6s linear infinite;
+  white-space: nowrap;
 }
 /*.slide-img-texttime-text2 h1::before{
     content: attr(data-text);
